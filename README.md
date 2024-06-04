@@ -33,8 +33,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tahjib-alam-183229183/" target="_blank">
