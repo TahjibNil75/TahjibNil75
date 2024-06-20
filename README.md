@@ -1,6 +1,5 @@
 ### <div align="center">I'm Tahjib, A passionate technologist with a strong foundation in AWS solutions architecture and passionate about DevOps practices 👨‍💻</div>  
 
-- ❓ Ask me about anything related to DevOps and related technologies
 
 <br/>
 
@@ -46,11 +45,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
       </a>
       <a href="https://www.redhat.com/en/topics/devops" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="devops" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/devops/devops-icon.svg" alt="devops" width="40" height="40"/>
       </a>
     </p>
   </div>
 </div>
+
 
 
 
