@@ -27,9 +27,6 @@
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin: 0 auto;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
       </a>
-      <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin: 0 auto;">
-        <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="nestjs" width="40" height="40"/>
-      </a>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 0 auto;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
       </a>
@@ -39,12 +36,22 @@
       <a href="https://www.terraform.io/" target="_blank" rel="noreferrer" style="margin: 0 auto;">
         <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
       </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 0 auto;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="margin: 0 auto;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+      </a>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin: 0 auto;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="margin: 0 auto;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+      </a>
+      <a href="https://www.redhat.com/en/topics/devops" target="_blank" rel="noreferrer" style="margin: 0 auto;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" alt="devops" width="40" height="40"/>
       </a>
     </p>
   </div>
 </div>
+
 
 
 ## Connect with me
