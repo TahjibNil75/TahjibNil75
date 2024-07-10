@@ -7,10 +7,6 @@
 
 <div align="center">
   <div class="icon-container" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px auto; padding: 20px; width: fit-content; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    <a href="topics/devops" target="_blank" rel="noreferrer">
-      <img src="images/devops.png" alt="DevOps" width="50" height="50" style="transition: transform 0.2s;" />
-      <br /><b>DevOps</b>
-    </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="transition: transform 0.2s;" />
     </a>
@@ -44,11 +40,9 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="transition: transform 0.2s;" />
     </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" style="transition: transform 0.2s;" />
-    </a>
   </div>
 </div>
+
 
 
 
