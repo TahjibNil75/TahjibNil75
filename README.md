@@ -49,9 +49,8 @@
 ## Badge
 
 <div align="center">
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.8d51163b15fe8e8b7e22ce41d0f09c566a4a0adf.png" alt="AWS Certified Solutions Architect – Associate" width="120" height="120" />
+  <img src="https://github.com/username/repo-name/blob/main/aws-saa-badge.png?raw=true" alt="AWS Certified Solutions Architect – Associate" width="120" height="120" />
 </div>
-
 
 
 
