@@ -46,13 +46,6 @@
 </div>
 
 
-## Badge
-
-<div align="center">
-  <img src="https://github.com/username/repo-name/blob/main/aws-saa-badge.png?raw=true" alt="AWS Certified Solutions Architect – Associate" width="120" height="120" />
-</div>
-
-
 
 
 ## Connect with me
