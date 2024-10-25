@@ -46,8 +46,11 @@
 </div>
 
 
+## Badge
 
-
+<div align="center">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.60d314289e.png" alt="AWS Certified Solutions Architect – Associate" width="120" height="120" />
+</div>
 
 
 
