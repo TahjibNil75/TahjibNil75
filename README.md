@@ -48,7 +48,7 @@
 
 
 
-## Connect with me
+## 📫 How to find me
 
 <div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/tahjib-alam-183229183/" target="_blank">
@@ -66,3 +66,6 @@
 </div>
 
 <br/>
+
+
+### 🌱 I’m currently learning Kubernetes to enhance my skills in managing and deploying containerized applications.
