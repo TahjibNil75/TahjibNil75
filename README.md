@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" alt="DevOps" width="40" height="40" />
+  <!-- DevOps (represented by Docker) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="DevOps (Docker)" width="40" height="40" />
 
   &nbsp;&nbsp;&nbsp;
 
@@ -12,14 +12,10 @@
 
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Deployment (Upload Icon) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" alt="Deployment" width="40" height="40" />
-
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- CI/CD (Gear/Process Icon) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2620/2620973.png" alt="CI/CD" width="40" height="40" />
+  <!-- Deployment (represented by GitHub Actions for CI/CD) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="Deployment (CI/CD)" width="40" height="40" />
 </p>
+
 
 
 
