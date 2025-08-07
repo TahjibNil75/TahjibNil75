@@ -2,10 +2,25 @@
 
 
 <p align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-devops-computer-programming-flaticons-lineal-color-flat-icons.png" alt="DevOps" width="40" height="40" />
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" alt="DevOps" width="40" height="40" />
+
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/clouds/100/cloud.png" alt="Cloud Computing" width="40" height="40" />
+
+  <!-- Cloud Computing -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149646.png" alt="Cloud Computing" width="40" height="40" />
+
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Deployment (Upload Icon) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" alt="Deployment" width="40" height="40" />
+
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- CI/CD (Gear/Process Icon) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/2620/2620973.png" alt="CI/CD" width="40" height="40" />
 </p>
+
 
 
 
