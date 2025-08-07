@@ -1,23 +1,11 @@
 ### <div align="center">I'm Tahjib, A passionate technologist with a strong foundation in AWS solutions architecture and passionate about DevOps practices 👨‍💻</div>  
 
 
-<div align="center">
-  <div class="icon-container" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px auto; padding: 20px; width: fit-content; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    
-    <!-- DevOps logo -->
-    <a href="https://en.wikipedia.org/wiki/DevOps" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/devops.svg" alt="devops" width="40" height="40" style="transition: transform 0.2s;" />
-    </a>
-
-    <!-- Cloud Computing logo -->
-    <a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank" rel="noreferrer">
-      <img src="https://cdn-icons-png.flaticon.com/512/4149/4149646.png" alt="cloud computing" width="40" height="40" style="transition: transform 0.2s;" />
-    </a>
-
-  </div>
-</div>
-
-
+<p align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-devops-computer-programming-flaticons-lineal-color-flat-icons.png" alt="DevOps" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/clouds/100/cloud.png" alt="Cloud Computing" width="40" height="40" />
+</p>
 
 
 
